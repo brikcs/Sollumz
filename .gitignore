@@ -14,3 +14,11 @@ Sollumz.zip
 coverage.xml
 .coverage
 offline_index/
+
+# Next.js
+.next/
+out/
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
